@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js , React Native , TypeScript**
 
-- 💬 Ask me about **Android , MERN**
+- 💬 Ask me about **Frontend 
 
 - 📫 How to reach me **sonusinghrajupt270@gmail.com**
 
